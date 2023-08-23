@@ -1,0 +1,18 @@
+
+The great ape api
+
+method      endpoint
+
+GET         /apes
+GET         /apes/{id}
+
+POST        /apes
+
+PATCH       /apes/{id}
+PUT         /apes/{id}
+
+DELETE      /apes/{id}
+
+
+
+
